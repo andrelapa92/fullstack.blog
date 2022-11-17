@@ -1,0 +1,104 @@
+[{
+        "id": 1,
+        "nome": "Edson Arantes",
+        "senha": "ean2022",
+        "postagens": [{
+            "id": 1,
+            "data": "2020-10-20T10:30:42Z",
+            "titulo": "Relacionamentos com Spring Boot",
+            "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "assuntos": [{
+                    "id": 1,
+                    "descricao": "Java"
+                },
+                {
+                    "id": 2,
+                    "descricao": "Spring Boot"
+                },
+                {
+                    "id": 3,
+                    "descricao": "Back-End"
+                }
+            ],
+            "comentarios": [{
+                    "id": 1,
+                    "nome": "Francisco Everardo",
+                    "data": "2021-05-17T08:02:49Z",
+                    "text": "Ótimo post, parabéns! Consegui tirar muitas dúvidas sobre Spring Boot."
+                },
+                {
+                    "id": 4,
+                    "nome": "Augusto Liberato",
+                    "data": "2021-01-06T15:51:27Z",
+                    "text": "O Spring facilita muito o relacionamento entre tabelas."
+                }
+            ],
+            "totalPalavras": 8.0
+        }],
+        "totalPostagens": 1.0
+    },
+    {
+        "id": 2,
+        "nome": "Manoel Francisco",
+        "senha": "mfs123",
+        "postagens": [{
+                "id": 2,
+                "data": "2021-02-27T14:18:26Z",
+                "titulo": "Criando uma página com React",
+                "texto": "Mauris risus quam, consequat a finibus at, vulputate in massa.",
+                "assuntos": [{
+                        "id": 4,
+                        "descricao": "Front-End"
+                    },
+                    {
+                        "id": 5,
+                        "descricao": "JavaScript"
+                    }
+                ],
+                "comentarios": [{
+                    "id": 2,
+                    "nome": "Everson de Brito",
+                    "data": "2021-03-02T19:13:36Z",
+                    "text": "Muito bom, já estou apaixonado por React."
+                }],
+                "totalPalavras": 10.0
+            },
+            {
+                "id": 3,
+                "data": "2022-05-16T12:11:39Z",
+                "titulo": "Primeiros passos em JavaScript",
+                "texto": "Vivamus euismod aliquet dolor sed consequat.",
+                "assuntos": [{
+                    "id": 5,
+                    "descricao": "JavaScript"
+                }],
+                "comentarios": [{
+                    "id": 3,
+                    "nome": "Daniella Maria",
+                    "data": "2022-09-30T10:02:14Z",
+                    "text": "Adorei! Poderia explicar como funcionam os loops em JS?"
+                }],
+                "totalPalavras": 6.0
+            }
+        ],
+        "totalPostagens": 2.0
+    },
+    {
+        "id": 3,
+        "nome": "Marcos André",
+        "senha": "mabs@vampeta3",
+        "postagens": [{
+            "id": 4,
+            "data": "2022-06-02T07:29:48Z",
+            "titulo": "Herança de classes em Java",
+            "texto": "Morbi lobortis enim nec purus tempus commodo.",
+            "assuntos": [{
+                "id": 1,
+                "descricao": "Java"
+            }],
+            "comentarios": [],
+            "totalPalavras": 7.0
+        }],
+        "totalPostagens": 1.0
+    }
+]

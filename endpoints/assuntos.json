@@ -1,0 +1,21 @@
+[{
+        "id": 1,
+        "descricao": "Java"
+    },
+    {
+        "id": 2,
+        "descricao": "Spring Boot"
+    },
+    {
+        "id": 3,
+        "descricao": "Back-End"
+    },
+    {
+        "id": 4,
+        "descricao": "Front-End"
+    },
+    {
+        "id": 5,
+        "descricao": "JavaScript"
+    }
+]
